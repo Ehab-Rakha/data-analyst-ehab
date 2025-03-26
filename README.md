@@ -18,11 +18,11 @@ AWS Glue DataBrew, Excel, Python (Pandas).
 
 **Implementation**:
 
-A) ![Initial dataset profiling - DataBrew](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Initial%20dataset%20profiling%20screenshot%20-%20DataBrew.png)
+A) Initial dataset profiling screenshot - DataBrew ![Initial dataset profiling - DataBrew](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Initial%20dataset%20profiling%20screenshot%20-%20DataBrew.png)
 
 
 
-B)	![Visualization, initial profiling or quick insights](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Visualization%2C%20initial%20profiling%20or%20quick%20insights.png)
+B) Visualization, initial profiling or quick insights	![Visualization, initial profiling or quick insights](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Visualization%2C%20initial%20profiling%20or%20quick%20insights.png)
 
 ________________________________________
 
