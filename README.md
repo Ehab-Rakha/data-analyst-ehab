@@ -9,6 +9,7 @@
 The aim was to initially explore datasets to identify basic patterns, trends, or outliers. Typical activities included data profiling, simple visualizations, and understanding fundamental dataset characteristics.
 
 Methodology:
+
 •	Initial data import and profiling
 
 •	Generation of basic visualizations like histograms and bar charts
