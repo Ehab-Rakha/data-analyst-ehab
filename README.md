@@ -10,7 +10,7 @@ Methodology:
 Tools Used:
 AWS Glue DataBrew, Excel, Python (Pandas).
 **Implementation**:
-•[	Initial dataset profiling screenshot ](https://github.com/Ehab-Rakha/data-analyst-ehab/blob/4d581139d09a321c536a41378bf6992dfc6164b2/Initial%20dataset%20profiling%20screenshot%20-%20DataBrew.png)
+•Initial dataset profiling screenshot - DataBrew.png
 •	(Visualization, initial profiling or quick insights) [(https://github.com/Ehab-Rakha/data-analyst-ehab/blob/4d581139d09a321c536a41378bf6992dfc6164b2/Visualization%2C%20initial%20profiling%20or%20quick%20insights.png)](https://github.com/Ehab-Rakha/data-analyst-ehab/blob/4d581139d09a321c536a41378bf6992dfc6164b2/Visualization%2C%20initial%20profiling%20or%20quick%20insights.png)
 ________________________________________
 2. **Descriptive Analysis**
