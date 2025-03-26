@@ -188,9 +188,3 @@ Excel, AWS Glue, AWS DataBrew.
 A)![Detailed Sales analysis](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20Sales%20analysis.png)
 
 B) 	![Insights and diagnostics of admission analytics](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Insights%20and%20diagnostics%20of%20admission%20analytics.png)
-
-
-C) 	![Insights and diagnostics of admission analytics](https://raw
-::contentReference[oaicite:36]{index=36}
- 
-
