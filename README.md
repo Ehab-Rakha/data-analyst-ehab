@@ -2,7 +2,7 @@
 
 **Weekly Activities & Class Participation**:
 
-1. **Exploratory Data Analysis (EDA)**
+**1. Exploratory Data Analysis (EDA)**
 
 **Description:**
 
@@ -26,7 +26,7 @@ B) Visualization, initial profiling or quick insights	![Visualization, initial p
 
 ________________________________________
 
-2. **Descriptive Analysis**
+**2. Descriptive Analysis**
 
 **Description**:
 
@@ -51,7 +51,7 @@ B) Summary and descriptive data ![Summary and descriptive data](https://raw.gith
 
 ________________________________________
 
-3. **Diagnostic Analysis**
+**3. Diagnostic Analysis**
 
 **Description**:
 
@@ -108,8 +108,8 @@ C) Dataset explicitly marked as poor quality—ideal wrangling scenario	![Datase
 
 ________________________________________
 
-**5. Data Quality Control (Main Project Part 2)
-**
+**5. Data Quality Control (Main Project Part 2)**
+
 **Description:**
 
 Dedicated to validating, profiling, and ensuring data integrity, accuracy, and completeness using AWS Glue’s Data Quality features.
