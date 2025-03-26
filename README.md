@@ -10,7 +10,9 @@ The aim was to initially explore datasets to identify basic patterns, trends, or
 
 Methodology:
 •	Initial data import and profiling
+
 •	Generation of basic visualizations like histograms and bar charts
+
 •	Identification of data distributions and outliers
 
 Tools Used:
@@ -35,7 +37,9 @@ Activities involving detailed summary statistics and clear visualization of hist
 Methodology:
 
 •	Summarizing data into meaningful metrics
+
 •	Creating summary reports and visual dashboards
+
 •	Comparative analysis between different dataset variables
 
 Tools Used:
@@ -60,7 +64,9 @@ Focused on determining causes behind observed trends or events. Projects include
 Methodology:
 
 •	Correlation and regression analysis
+
 •	Root-cause analysis
+
 •	Comparative and detailed data inspections
 
 Tools Used:
@@ -89,7 +95,9 @@ Project focused on cleaning, transforming, and preparing data. The emphasis was 
 Methodology:
 
 •	Data ingestion from raw sources
+
 •	Handling inconsistencies and missing data
+
 •	Transformation, joining, and normalization of datasets
 
 Tools Used:
@@ -117,7 +125,9 @@ Dedicated to validating, profiling, and ensuring data integrity, accuracy, and c
 Methodology:
 
 •	Establishing validation rules and metrics
+
 •	Profiling for completeness, correctness, and consistency
+
 •	Ensuring datasets conform to defined quality benchmarks
 
 Tools Used:
@@ -146,7 +156,9 @@ Focused on end-to-end implementation using AWS Glue workflows. Includes data ing
 Methodology:
 
 •	Data ingestion using AWS Glue Jobs
+
 •	Data transformations, including joins (using visual ETL workflows)
+
 •	Converting datasets into optimized storage formats (Parquet)
 
 Tools Used:
@@ -176,7 +188,9 @@ Focused on generating actionable insights for specific business cases (Learning 
 Methodology:
 
 •	Focused descriptive summaries
+
 •	Diagnostic analytics to understand key drivers
+
 •	Visualization and actionable recommendations
 
 Tools Used:
