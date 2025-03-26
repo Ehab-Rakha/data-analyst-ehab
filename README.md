@@ -44,10 +44,10 @@ AWS Glue DataBrew, Excel.
 
 **Implementation**:
 
-A)	![Data summary/overview, profiling summary](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Data%20summary-overview%2C%20profiling%20summary.png)
+A) Data summary/overview, profiling summary	![Data summary/overview, profiling summary](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Data%20summary-overview%2C%20profiling%20summary.png)
 
 
-B) ![Summary and descriptive data](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Summary%20and%20descriptive%20data.png)
+B) Summary and descriptive data ![Summary and descriptive data](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Summary%20and%20descriptive%20data.png)
 
 ________________________________________
 
@@ -69,12 +69,12 @@ AWS Glue (Data profiling features), Excel.
 
 **Implementation**:
 
-A)	![Correlation heatmap showing variable relationships](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Correlation%20heatmap%20showing%20variable%20relationships.png)
+A) Correlation heatmap showing variable relationships	![Correlation heatmap showing variable relationships](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Correlation%20heatmap%20showing%20variable%20relationships.png)
 
-B)	![Dataset explicitly marked as poor quality—ideal wrangling scenario](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Dataset%20explicitly%20marked%20as%20poor%20quality%E2%80%94ideal%20wrangling%20scenario.png)
+B) Dataset explicitly marked as poor quality—ideal wrangling scenario	![Dataset explicitly marked as poor quality—ideal wrangling scenario](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Dataset%20explicitly%20marked%20as%20poor%20quality%E2%80%94ideal%20wrangling%20scenario.png)
 
 
-C)	![Data quality profile with correlation metrics clearly shown](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Data%20quality%20profile%20with%20correlation%20metrics%20clearly%20shown.png)
+C) Data quality profile with correlation metrics clearly shown	![Data quality profile with correlation metrics clearly shown](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Data%20quality%20profile%20with%20correlation%20metrics%20clearly%20shown.png)
 
 ________________________________________
 
@@ -98,13 +98,13 @@ AWS DataBrew, AWS Glue, Amazon S3, AWS visual ETL.
 
 **Implementation**:
 
-A) ![Detailed data pipeline and ingestion flow](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
+A) Detailed data pipeline and ingestion flow ![Detailed data pipeline and ingestion flow](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
 
 
-B)![DataBrew recipes and transformations](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/DataBrew%20transformations.png)
+B) DataBrew recipes and transformations ![DataBrew recipes and transformations](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/DataBrew%20transformations.png)
 
 
-C)	![Dataset explicitly marked as poor quality—ideal wrangling scenario](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Dataset%20explicitly%20marked%20as%20poor%20quality%E2%80%94ideal%20wrangling%20scenario.png)
+C) Dataset explicitly marked as poor quality—ideal wrangling scenario	![Dataset explicitly marked as poor quality—ideal wrangling scenario](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Dataset%20explicitly%20marked%20as%20poor%20quality%E2%80%94ideal%20wrangling%20scenario.png)
 
 ________________________________________
 
@@ -126,13 +126,13 @@ AWS Glue Data Quality, DataBrew validation rules.
 
 **Implementation**:
 
-A)	![AWS Glue Data Quality validations screenshot](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/AWS%20Glue%20Data%20Quality%20validations.png)
+A) AWS Glue Data Quality validations screenshot	![AWS Glue Data Quality validations screenshot](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/AWS%20Glue%20Data%20Quality%20validations.png)
 
 
-B) ![Detailed data quality profiling and validation](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
+B) Detailed data quality profiling and validation ![Detailed data quality profiling and validation](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
 
 
-C) ![Profiling and validation metrics from Glue Data Quality module](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
+C) Profiling and validation metrics from Glue Data Quality module ![Profiling and validation metrics from Glue Data Quality module](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20data%20quality%20profiling%20and%20validation.png)
 
 ________________________________________
 
@@ -155,13 +155,13 @@ AWS Glue, Amazon S3, Glue Visual ETL.
 
 **Implementation**:
 
-A) ![Glue Visual ETL Workflow showing Extract Apps and Extract Payments joins](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Glue%20Visual%20ETL%20Workflow%20showing%20%5BExtract%20Apps%5D%20and%20%5BExtract%20Payments%5D%20joins.png)
+A) Glue Visual ETL Workflow showing Extract Apps and Extract Payments joins ![Glue Visual ETL Workflow showing Extract Apps and Extract Payments joins](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Glue%20Visual%20ETL%20Workflow%20showing%20%5BExtract%20Apps%5D%20and%20%5BExtract%20Payments%5D%20joins.png)
 
 
-B) 	![Comprehensive data used for join operations](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Comprehensive%20data%20used%20for%20join%20operations.png)
+B) Comprehensive data used for join operations 	![Comprehensive data used for join operations](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Comprehensive%20data%20used%20for%20join%20operations.png)
 
 
-C) ![AWS S3 bucket with output files in Parquet format](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/AWS%20S3%20bucket%20with%20output%20files%20in%20Parquet%20format.png)
+C) AWS S3 bucket with output files in Parquet format ![AWS S3 bucket with output files in Parquet format](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/AWS%20S3%20bucket%20with%20output%20files%20in%20Parquet%20format.png)
 
 ________________________________________
 
@@ -185,6 +185,6 @@ Excel, AWS Glue, AWS DataBrew.
 
 **Implementation**:
 
-A)![Detailed Sales analysis](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20Sales%20analysis.png)
+A) Detailed Sales analysis ![Detailed Sales analysis](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Detailed%20Sales%20analysis.png)
 
-B) 	![Insights and diagnostics of admission analytics](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Insights%20and%20diagnostics%20of%20admission%20analytics.png)
+B) Insights and diagnostics of admission analytics 	![Insights and diagnostics of admission analytics](https://raw.githubusercontent.com/Ehab-Rakha/data-analyst-ehab/main/Insights%20and%20diagnostics%20of%20admission%20analytics.png)
