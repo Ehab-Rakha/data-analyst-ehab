@@ -1,8 +1,13 @@
 # **Portfolio Projects**
+
 **Weekly Activities & Class Participation**:
+
 1. **Exploratory Data Analysis (EDA)**
-Description:
+
+**Description:**
+
 The aim was to initially explore datasets to identify basic patterns, trends, or outliers. Typical activities included data profiling, simple visualizations, and understanding fundamental dataset characteristics.
+
 Methodology:
 •	Initial data import and profiling
 •	Generation of basic visualizations like histograms and bar charts
@@ -73,9 +78,9 @@ C)	![Data quality profile with correlation metrics clearly shown](https://raw.gi
 
 ________________________________________
 
-**Project Parts 1 & 2 (City of Vancouver Project):
+**Project Parts 1 & 2 (City of Vancouver Project):**
 
-4. Data Wrangling (Main Project Part 1)**
+**4. Data Wrangling (Main Project Part 1)**
 
 **Description**:
 
@@ -104,8 +109,8 @@ C)	![Dataset explicitly marked as poor quality—ideal wrangling scenario](https
 ________________________________________
 
 **5. Data Quality Control (Main Project Part 2)
-
-Description:**
+**
+**Description:**
 
 Dedicated to validating, profiling, and ensuring data integrity, accuracy, and completeness using AWS Glue’s Data Quality features.
 
@@ -131,11 +136,11 @@ C) ![Profiling and validation metrics from Glue Data Quality module](https://raw
 
 ________________________________________
 
-**AWS ETL Projects (Comprehensive Class Project):
+**AWS ETL Projects (Comprehensive Class Project):**
 
-6. Comprehensive Data Engineering & ETL Project
+**6. Comprehensive Data Engineering & ETL Project**
 
-Description:**
+**Description:**
 Focused on end-to-end implementation using AWS Glue workflows. Includes data ingestion, joining datasets, transformations, and loading the processed data into optimized storage (Parquet files).
 
 Methodology:
@@ -160,11 +165,11 @@ C) ![AWS S3 bucket with output files in Parquet format](https://raw.githubuserco
 
 ________________________________________
 
-**Special Analysis (Learning, Sales & Admissions Data):
+**Special Analysis (Learning, Sales & Admissions Data):**
 
-7. Specialized Data Analysis and Insights
+**7. Specialized Data Analysis and Insights**
 
-Description:**
+**Description:**
 
 Focused on generating actionable insights for specific business cases (Learning Analytics, Sales Analysis, Admission Data Analysis). This involves descriptive and diagnostic analytics to uncover insights.
 
